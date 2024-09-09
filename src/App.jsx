@@ -83,7 +83,7 @@ function App() {
   const welcome = {
     greeting: "Demo",
     title:
-      "Update Item in a Complex Object using useState Hook with Enable/Disable. The change is the Done to Undo and Vice Versa",
+      "Update Item in a Complex Object using useState Hook with Enable/Disable Button and Conditional Rendering. The change is the Done to Undo and Vice Versa",
   };
 
   let searchKey = "search";
