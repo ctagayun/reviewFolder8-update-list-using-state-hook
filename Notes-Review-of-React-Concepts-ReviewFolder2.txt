@@ -737,3 +737,21 @@ REVIEW FOLDER 8 - UPDATE ITEMS IN A LIST
     We will be using React's useState Hook here, for the sake of keeping 
     the first example simple, however, you can also use React's useReducer 
     Hook, as you will see later.
+
+  - Demo is in C:\_AMyReactDev\reviewFolder8-update-list-using-state-hook
+
+  - Questions:
+      Question: What is an inline function in React?
+         Answer: An inline function in React is often used as a function defined 
+         directly within the JSX.
+
+      Question: What is the advantage of using inline functions for event handlers in React?
+         Answer: Inline functions allow you to pass additional parameters easily.
+
+      Question: What is the alternative to using inline functions for event handlers in React?
+         Answer: Creating handler functions outside the render method and passing 
+         references to them can be an alternative.
+
+      Question: What is the syntax for creating an inline function in a React JSX event handler?
+         Answer: Use arrow function syntax directly within the event handler attribute, 
+         like onClick={() => myFunction()}.
